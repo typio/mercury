@@ -1,0 +1,11 @@
+.{
+    .name = "mercury",
+    .version = "0.0.1",
+
+    .dependencies = .{
+        // .zig_cli = .{
+        //   .url = "https://github.com/sam701/zig-cli/archive/refs/heads/main.tar.gz",
+        //   .hash = "12206d2343f3a78a8f6234652aaecd9bef8b9a16165527839f9152833f679f596228"
+        // },
+    },
+}
